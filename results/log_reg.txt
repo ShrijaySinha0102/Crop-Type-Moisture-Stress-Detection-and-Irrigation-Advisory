@@ -1,0 +1,36 @@
+[    23s] A All features seed 0
+[    47s] A All features seed 1
+[    95s] A All features seed 2
+[   145s] A All features seed 3
+[   198s] A All features seed 4
+[   225s] B All features held-out scene 259034451
+[   251s] B All features held-out scene 259034461
+[   277s] B All features held-out scene 259619441
+[   303s] B All features held-out scene 259634321
+[   329s] B All features held-out scene 259634331
+[   354s] B All features held-out scene 259647951
+[   381s] B All features held-out scene 259811221
+[   408s] B All features held-out scene 259811231
+[   434s] B All features held-out scene 259899351
+[   459s] B All features held-out scene 259944311
+[   485s] B All features held-out scene 259944381
+[   511s] B All features held-out scene 2596343451
+[   537s] B All features held-out scene 2599443101
+[   565s] B All features held-out scene 25100270201
+[   584s] A NDVI-free seed 0
+[   603s] A NDVI-free seed 1
+[   622s] A NDVI-free seed 2
+[   640s] A NDVI-free seed 3
+[   659s] A NDVI-free seed 4
+[   679s] B NDVI-free held-out scene 259034451
+[   698s] B NDVI-free held-out scene 259034461
+[   717s] B NDVI-free held-out scene 259619441
+[   736s] B NDVI-free held-out scene 259634321
+[   755s] B NDVI-free held-out scene 259634331
+[   774s] B NDVI-free held-out scene 259647951
+[   793s] B NDVI-free held-out scene 259811221
+[   811s] B NDVI-free held-out scene 259811231
+[   829s] B NDVI-free held-out scene 259899351
+[   848s] B NDVI-free held-out scene 259944311
+[   866s] B NDVI-free held-out scene 259944381
+[   884s] B NDVI-free held-out scene 2596343451

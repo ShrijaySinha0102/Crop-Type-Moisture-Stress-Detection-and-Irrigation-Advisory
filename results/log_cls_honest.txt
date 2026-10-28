@@ -1,0 +1,66 @@
+[     0s] Feature set "Optical + SAR + thermal/rain" (12 columns)
+[     8s] A seed=0 Random Forest              acc=0.390 macroF1=0.301
+[    13s] A seed=0 XGBoost                    acc=0.348 macroF1=0.276
+[    23s] A seed=0 AdaBoost                   acc=0.390 macroF1=0.288
+[    23s] A seed=0 Majority class             acc=0.500 macroF1=0.111
+[    23s] A seed=0 NDVI rule (depth-2 tree)   acc=0.081 macroF1=0.048
+[    31s] A seed=1 Random Forest              acc=0.395 macroF1=0.310
+[    37s] A seed=1 XGBoost                    acc=0.360 macroF1=0.293
+[    46s] A seed=1 AdaBoost                   acc=0.398 macroF1=0.284
+[    46s] A seed=1 Majority class             acc=0.500 macroF1=0.111
+[    46s] A seed=1 NDVI rule (depth-2 tree)   acc=0.095 macroF1=0.056
+[    54s] A seed=2 Random Forest              acc=0.402 macroF1=0.324
+[    60s] A seed=2 XGBoost                    acc=0.388 macroF1=0.304
+[    68s] A seed=2 AdaBoost                   acc=0.348 macroF1=0.298
+[    68s] A seed=2 Majority class             acc=0.500 macroF1=0.111
+[    68s] A seed=2 NDVI rule (depth-2 tree)   acc=0.088 macroF1=0.069
+[    76s] A seed=3 Random Forest              acc=0.426 macroF1=0.354
+[    82s] A seed=3 XGBoost                    acc=0.431 macroF1=0.345
+[    90s] A seed=3 AdaBoost                   acc=0.379 macroF1=0.316
+[    90s] A seed=3 Majority class             acc=0.500 macroF1=0.111
+[    91s] A seed=3 NDVI rule (depth-2 tree)   acc=0.098 macroF1=0.079
+[    98s] A seed=4 Random Forest              acc=0.433 macroF1=0.330
+[   104s] A seed=4 XGBoost                    acc=0.395 macroF1=0.331
+[   113s] A seed=4 AdaBoost                   acc=0.374 macroF1=0.315
+[   113s] A seed=4 Majority class             acc=0.500 macroF1=0.111
+[   113s] A seed=4 NDVI rule (depth-2 tree)   acc=0.119 macroF1=0.097
+[   121s] A seed=5 Random Forest              acc=0.476 macroF1=0.392
+[   127s] A seed=5 XGBoost                    acc=0.479 macroF1=0.389
+[   136s] A seed=5 AdaBoost                   acc=0.390 macroF1=0.270
+[   136s] A seed=5 Majority class             acc=0.500 macroF1=0.111
+[   136s] A seed=5 NDVI rule (depth-2 tree)   acc=0.098 macroF1=0.075
+[   144s] A seed=6 Random Forest              acc=0.433 macroF1=0.335
+[   149s] A seed=6 XGBoost                    acc=0.395 macroF1=0.333
+[   159s] A seed=6 AdaBoost                   acc=0.419 macroF1=0.302
+[   159s] A seed=6 Majority class             acc=0.500 macroF1=0.111
+[   159s] A seed=6 NDVI rule (depth-2 tree)   acc=0.100 macroF1=0.089
+[   167s] A seed=7 Random Forest              acc=0.424 macroF1=0.331
+[   173s] A seed=7 XGBoost                    acc=0.417 macroF1=0.315
+[   182s] A seed=7 AdaBoost                   acc=0.405 macroF1=0.291
+[   182s] A seed=7 Majority class             acc=0.500 macroF1=0.111
+[   182s] A seed=7 NDVI rule (depth-2 tree)   acc=0.083 macroF1=0.049
+[   191s] A seed=8 Random Forest              acc=0.419 macroF1=0.319
+[   196s] A seed=8 XGBoost                    acc=0.381 macroF1=0.295
+[   204s] A seed=8 AdaBoost                   acc=0.371 macroF1=0.285
+[   204s] A seed=8 Majority class             acc=0.500 macroF1=0.111
+[   204s] A seed=8 NDVI rule (depth-2 tree)   acc=0.095 macroF1=0.055
+[   212s] A seed=9 Random Forest              acc=0.379 macroF1=0.278
+[   218s] A seed=9 XGBoost                    acc=0.381 macroF1=0.312
+[   226s] A seed=9 AdaBoost                   acc=0.324 macroF1=0.276
+[   226s] A seed=9 Majority class             acc=0.500 macroF1=0.111
+[   226s] A seed=9 NDVI rule (depth-2 tree)   acc=0.102 macroF1=0.083
+[   250s] B held-out scene 1/14 259034451 (Paddy)
+[   276s] B held-out scene 2/14 259034461 (Paddy)
+[   300s] B held-out scene 3/14 259619441 (Soybean)
+[   324s] B held-out scene 4/14 259634321 (Paddy)
+[   348s] B held-out scene 5/14 259634331 (Paddy)
+[   372s] B held-out scene 6/14 259647951 (Paddy)
+[   395s] B held-out scene 7/14 259811221 (Maize)
+[   418s] B held-out scene 8/14 259811231 (Paddy)
+[   441s] B held-out scene 9/14 259899351 (Oilseeds)
+[   464s] B held-out scene 10/14 259944311 (Pulses)
+[   489s] B held-out scene 11/14 259944381 (Paddy)
+[   513s] B held-out scene 12/14 2596343451 (Sugarcane)
+[   538s] B held-out scene 13/14 2599443101 (Sugarcane)
+[   562s] B held-out scene 14/14 25100270201 (Sugarcane)
+[   562s] done

@@ -1,0 +1,71 @@
+scene,crop,model,accuracy
+259034451,Paddy,Random Forest,0.98
+259034461,Paddy,Random Forest,0.9666666666666667
+259619441,Soybean,Random Forest,0.0
+259634321,Paddy,Random Forest,0.16
+259634331,Paddy,Random Forest,0.11333333333333333
+259647951,Paddy,Random Forest,0.08666666666666667
+259811221,Maize,Random Forest,0.0
+259811231,Paddy,Random Forest,0.07333333333333333
+259899351,Oilseeds,Random Forest,0.0
+259944311,Pulses,Random Forest,0.0
+259944381,Paddy,Random Forest,0.12
+2596343451,Sugarcane,Random Forest,0.6933333333333334
+2599443101,Sugarcane,Random Forest,0.74
+25100270201,Sugarcane,Random Forest,0.7533333333333333
+259034451,Paddy,XGBoost,0.8866666666666667
+259034461,Paddy,XGBoost,0.9133333333333333
+259619441,Soybean,XGBoost,0.0
+259634321,Paddy,XGBoost,0.12
+259634331,Paddy,XGBoost,0.15333333333333332
+259647951,Paddy,XGBoost,0.15333333333333332
+259811221,Maize,XGBoost,0.0
+259811231,Paddy,XGBoost,0.05333333333333334
+259899351,Oilseeds,XGBoost,0.0
+259944311,Pulses,XGBoost,0.0
+259944381,Paddy,XGBoost,0.2866666666666667
+2596343451,Sugarcane,XGBoost,0.4266666666666667
+2599443101,Sugarcane,XGBoost,0.52
+25100270201,Sugarcane,XGBoost,0.5466666666666666
+259034451,Paddy,AdaBoost,0.8066666666666666
+259034461,Paddy,AdaBoost,0.6066666666666667
+259619441,Soybean,AdaBoost,0.0
+259634321,Paddy,AdaBoost,0.09333333333333334
+259634331,Paddy,AdaBoost,0.29333333333333333
+259647951,Paddy,AdaBoost,0.16666666666666666
+259811221,Maize,AdaBoost,0.0
+259811231,Paddy,AdaBoost,0.10666666666666667
+259899351,Oilseeds,AdaBoost,0.0
+259944311,Pulses,AdaBoost,0.0
+259944381,Paddy,AdaBoost,0.18666666666666668
+2596343451,Sugarcane,AdaBoost,0.49333333333333335
+2599443101,Sugarcane,AdaBoost,0.26666666666666666
+25100270201,Sugarcane,AdaBoost,0.26666666666666666
+259034451,Paddy,Majority class,1.0
+259034461,Paddy,Majority class,1.0
+259619441,Soybean,Majority class,0.0
+259634321,Paddy,Majority class,1.0
+259634331,Paddy,Majority class,1.0
+259647951,Paddy,Majority class,1.0
+259811221,Maize,Majority class,0.0
+259811231,Paddy,Majority class,1.0
+259899351,Oilseeds,Majority class,0.0
+259944311,Pulses,Majority class,0.0
+259944381,Paddy,Majority class,1.0
+2596343451,Sugarcane,Majority class,0.0
+2599443101,Sugarcane,Majority class,0.0
+25100270201,Sugarcane,Majority class,0.0
+259034451,Paddy,NDVI rule (depth-2 tree),0.006666666666666667
+259034461,Paddy,NDVI rule (depth-2 tree),0.03333333333333333
+259619441,Soybean,NDVI rule (depth-2 tree),0.0
+259634321,Paddy,NDVI rule (depth-2 tree),0.0
+259634331,Paddy,NDVI rule (depth-2 tree),0.006666666666666667
+259647951,Paddy,NDVI rule (depth-2 tree),0.0
+259811221,Maize,NDVI rule (depth-2 tree),0.0
+259811231,Paddy,NDVI rule (depth-2 tree),0.0
+259899351,Oilseeds,NDVI rule (depth-2 tree),0.0
+259944311,Pulses,NDVI rule (depth-2 tree),0.0
+259944381,Paddy,NDVI rule (depth-2 tree),0.0
+2596343451,Sugarcane,NDVI rule (depth-2 tree),0.0
+2599443101,Sugarcane,NDVI rule (depth-2 tree),0.0
+25100270201,Sugarcane,NDVI rule (depth-2 tree),0.0

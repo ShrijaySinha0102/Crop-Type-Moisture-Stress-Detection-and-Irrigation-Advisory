@@ -1,0 +1,71 @@
+scene,model,cfg
+259034451,Random Forest,n_estimators=200;max_depth=16;min_samples_leaf=2
+259034451,XGBoost,n_estimators=150;max_depth=3;learning_rate=0.3
+259034451,AdaBoost,n_estimators=200;max_depth=3;learning_rate=0.5
+259034451,Majority class,
+259034451,NDVI rule (depth-2 tree),
+259034461,Random Forest,n_estimators=200;max_depth=12;min_samples_leaf=5
+259034461,XGBoost,n_estimators=150;max_depth=3;learning_rate=0.3
+259034461,AdaBoost,n_estimators=200;max_depth=3;learning_rate=0.5
+259034461,Majority class,
+259034461,NDVI rule (depth-2 tree),
+259619441,Random Forest,n_estimators=200;max_depth=None;min_samples_leaf=1
+259619441,XGBoost,n_estimators=150;max_depth=3;learning_rate=0.3
+259619441,AdaBoost,n_estimators=100;max_depth=3;learning_rate=1.0
+259619441,Majority class,
+259619441,NDVI rule (depth-2 tree),
+259634321,Random Forest,n_estimators=200;max_depth=8;min_samples_leaf=2
+259634321,XGBoost,n_estimators=150;max_depth=3;learning_rate=0.3
+259634321,AdaBoost,n_estimators=100;max_depth=2;learning_rate=0.5
+259634321,Majority class,
+259634321,NDVI rule (depth-2 tree),
+259634331,Random Forest,n_estimators=200;max_depth=None;min_samples_leaf=1
+259634331,XGBoost,n_estimators=150;max_depth=3;learning_rate=0.1
+259634331,AdaBoost,n_estimators=200;max_depth=2;learning_rate=1.0
+259634331,Majority class,
+259634331,NDVI rule (depth-2 tree),
+259647951,Random Forest,n_estimators=200;max_depth=12;min_samples_leaf=5
+259647951,XGBoost,n_estimators=150;max_depth=3;learning_rate=0.1
+259647951,AdaBoost,n_estimators=200;max_depth=3;learning_rate=0.5
+259647951,Majority class,
+259647951,NDVI rule (depth-2 tree),
+259811221,Random Forest,n_estimators=200;max_depth=None;min_samples_leaf=1
+259811221,XGBoost,n_estimators=150;max_depth=5;learning_rate=0.3
+259811221,AdaBoost,n_estimators=100;max_depth=3;learning_rate=1.0
+259811221,Majority class,
+259811221,NDVI rule (depth-2 tree),
+259811231,Random Forest,n_estimators=200;max_depth=16;min_samples_leaf=2
+259811231,XGBoost,n_estimators=150;max_depth=5;learning_rate=0.3
+259811231,AdaBoost,n_estimators=100;max_depth=3;learning_rate=1.0
+259811231,Majority class,
+259811231,NDVI rule (depth-2 tree),
+259899351,Random Forest,n_estimators=200;max_depth=12;min_samples_leaf=5
+259899351,XGBoost,n_estimators=150;max_depth=5;learning_rate=0.1
+259899351,AdaBoost,n_estimators=100;max_depth=2;learning_rate=0.5
+259899351,Majority class,
+259899351,NDVI rule (depth-2 tree),
+259944311,Random Forest,n_estimators=200;max_depth=16;min_samples_leaf=2
+259944311,XGBoost,n_estimators=150;max_depth=5;learning_rate=0.3
+259944311,AdaBoost,n_estimators=200;max_depth=2;learning_rate=1.0
+259944311,Majority class,
+259944311,NDVI rule (depth-2 tree),
+259944381,Random Forest,n_estimators=200;max_depth=12;min_samples_leaf=5
+259944381,XGBoost,n_estimators=150;max_depth=3;learning_rate=0.3
+259944381,AdaBoost,n_estimators=100;max_depth=2;learning_rate=0.5
+259944381,Majority class,
+259944381,NDVI rule (depth-2 tree),
+2596343451,Random Forest,n_estimators=200;max_depth=8;min_samples_leaf=2
+2596343451,XGBoost,n_estimators=150;max_depth=3;learning_rate=0.3
+2596343451,AdaBoost,n_estimators=100;max_depth=3;learning_rate=1.0
+2596343451,Majority class,
+2596343451,NDVI rule (depth-2 tree),
+2599443101,Random Forest,n_estimators=200;max_depth=8;min_samples_leaf=2
+2599443101,XGBoost,n_estimators=150;max_depth=3;learning_rate=0.3
+2599443101,AdaBoost,n_estimators=100;max_depth=3;learning_rate=1.0
+2599443101,Majority class,
+2599443101,NDVI rule (depth-2 tree),
+25100270201,Random Forest,n_estimators=200;max_depth=8;min_samples_leaf=2
+25100270201,XGBoost,n_estimators=150;max_depth=3;learning_rate=0.3
+25100270201,AdaBoost,n_estimators=200;max_depth=3;learning_rate=0.5
+25100270201,Majority class,
+25100270201,NDVI rule (depth-2 tree),

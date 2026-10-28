@@ -1,0 +1,11 @@
+feature_set,model,accuracy,accuracy_ci95,macro_f1,macro_f1_ci95,kappa,roc_auc
+All features,Random Forest,0.253,"[0.071, 0.490]",0.067,"[0.022, 0.110]",-0.270,0.161
+All features,XGBoost,0.236,"[0.058, 0.423]",0.067,"[0.020, 0.102]",-0.222,0.094
+All features,AdaBoost,0.319,"[0.112, 0.552]",0.085,"[0.036, 0.126]",-0.146,0.043
+All features,Majority class,0.500,"[0.214, 0.786]",0.111,"[0.059, 0.147]",0.000,0.000
+All features,NDVI rule (depth-2 tree),0.003,"[0.000, 0.009]",0.002,"[0.000, 0.005]",-0.083,0.107
+Optical + SAR + thermal/rain,Random Forest,0.335,"[0.141, 0.530]",0.162,"[0.070, 0.229]",0.115,0.296
+Optical + SAR + thermal/rain,XGBoost,0.290,"[0.149, 0.456]",0.142,"[0.073, 0.196]",0.046,0.205
+Optical + SAR + thermal/rain,AdaBoost,0.235,"[0.116, 0.370]",0.120,"[0.064, 0.161]",-0.028,0.104
+Optical + SAR + thermal/rain,Majority class,0.500,"[0.214, 0.786]",0.111,"[0.059, 0.147]",0.000,0.000
+Optical + SAR + thermal/rain,NDVI rule (depth-2 tree),0.003,"[0.000, 0.008]",0.002,"[0.000, 0.005]",-0.083,0.107

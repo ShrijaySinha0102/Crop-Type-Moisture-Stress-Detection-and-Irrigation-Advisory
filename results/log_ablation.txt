@@ -1,0 +1,37 @@
+[     4s] A  Optical only                     Random Forest
+[     5s] A  Optical only                     XGBoost
+[     7s] A  Optical only                     AdaBoost
+[    18s] B  Optical only                     Random Forest
+[    21s] B  Optical only                     XGBoost
+[    27s] B  Optical only                     AdaBoost
+[    30s] A  SAR only                         Random Forest
+[    31s] A  SAR only                         XGBoost
+[    32s] A  SAR only                         AdaBoost
+[    40s] B  SAR only                         Random Forest
+[    43s] B  SAR only                         XGBoost
+[    46s] B  SAR only                         AdaBoost
+[    51s] A  Optical + SAR                    Random Forest
+[    53s] A  Optical + SAR                    XGBoost
+[    55s] A  Optical + SAR                    AdaBoost
+[    69s] B  Optical + SAR                    Random Forest
+[    73s] B  Optical + SAR                    XGBoost
+[    80s] B  Optical + SAR                    AdaBoost
+[    87s] A  Optical + SAR + thermal/rain     Random Forest
+[    90s] A  Optical + SAR + thermal/rain     XGBoost
+[    95s] A  Optical + SAR + thermal/rain     AdaBoost
+[   112s] B  Optical + SAR + thermal/rain     Random Forest
+[   117s] B  Optical + SAR + thermal/rain     XGBoost
+[   128s] B  Optical + SAR + thermal/rain     AdaBoost
+[   130s] A  Weather only (NASA POWER)        Random Forest
+[   131s] A  Weather only (NASA POWER)        XGBoost
+[   133s] A  Weather only (NASA POWER)        AdaBoost
+[   138s] B  Weather only (NASA POWER)        Random Forest
+[   140s] B  Weather only (NASA POWER)        XGBoost
+[   143s] B  Weather only (NASA POWER)        AdaBoost
+[   148s] A  All features                     Random Forest
+[   151s] A  All features                     XGBoost
+[   156s] A  All features                     AdaBoost
+[   167s] B  All features                     Random Forest
+[   172s] B  All features                     XGBoost
+[   184s] B  All features                     AdaBoost
+[   196s] done
